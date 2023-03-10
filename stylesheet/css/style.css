@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 } 
+/* Register styling starts here  */
 nav{
   display: flex;
   height: 80px;
