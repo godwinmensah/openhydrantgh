@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#footer {
+    background: #ededed;
+    color: rgb(38, 38, 92);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#footer .fa {
+    margin: 20px;
+}
+
+.fa-heart-o {
+    margin: 3px;
+    color: red;
+}
